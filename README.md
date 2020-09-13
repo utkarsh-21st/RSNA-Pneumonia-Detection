@@ -1,2 +1,2 @@
 # RSNA-Pneumonia-Detection
-Look - notebook.ipynb
+Look - project.ipynb

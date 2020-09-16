@@ -1,3 +1,2 @@
 # RSNA-Pneumonia-Detection
-Look - project.ipynb
-Modelling part is incomplete.
+Analysis: project.ipynb. Modelling part is incomplete.

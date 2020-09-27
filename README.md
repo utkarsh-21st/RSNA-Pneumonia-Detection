@@ -1,4 +1,5 @@
 # RSNA-Pneumonia-Detection
-* Data Analysis: project.ipynb
-* Training: modelling.ipynb
+* Data Analysis: analysis.ipynb
+* Training: pneumonia.ipynb
+* Training is incomplete as of now.
 * You can get copy of dataset from kaggle.
